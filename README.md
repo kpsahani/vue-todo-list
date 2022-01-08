@@ -1,19 +1,25 @@
 # todo-list
 
-## Project setup
-```
-npm install
-```
+## For Vue setup
+----------------------------------------
+## step 1 : instal node_modules
+    npm install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## step 2 : compile and run
+    npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## step 3 : for build
+    npm run build
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## For Json Server
+---------------------------------------
+## step 1 : Install json server
+    npm install -g json-server
+
+## step 2 : Go to server Folder and run below command
+    json-server --watch todolist.json
+
+ 
+
+

@@ -1,0 +1,57 @@
+{
+  "todolist": [
+    {
+      "userName": "Raj",
+      "gender": "Male",
+      "hobby": [
+        "Reading",
+        "Music"
+      ],
+      "age": "25",
+      "date": "2022-01-01",
+      "taskName": "Deploy on netlify",
+      "status": "Active",
+      "id": "c8ee01ad-bdd2-47d2-8b81-c1a27323cffb"
+    },
+    {
+      "userName": "Riya",
+      "gender": "Female",
+      "hobby": [
+        "Music",
+        "Sports"
+      ],
+      "age": "26",
+      "date": "2022-01-26",
+      "taskName": "Do test in priority",
+      "status": "Active",
+      "id": "2ce6466b-914d-4773-93e6-b909917aac21"
+    },
+    {
+      "userName": "Shivam",
+      "gender": "Male",
+      "hobby": [
+        "Sports",
+        "Reading",
+        "Music"
+      ],
+      "age": "34",
+      "date": "2021-12-01",
+      "taskName": "Get Requirements from client",
+      "status": "Active",
+      "id": "bbd1fc24-57f3-41d1-af1a-79cdb4864338"
+    },
+    {
+      "userName": "Vasudev",
+      "gender": "Male",
+      "hobby": [
+        "Music",
+        "Reading"
+      ],
+      "age": "22",
+      "date": "2022-12-01",
+      "taskName": "Server setup today",
+      "status": "Active",
+      "id": "77aadf90-d7b4-4d6d-a7ce-720ac79ddbdf"
+    }
+  ]
+}
